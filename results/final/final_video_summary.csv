@@ -1,0 +1,8 @@
+﻿"Model","Total_Frames","Detected_Frames","Detection_Coverage_pct","Average_Inference_ms","Mean_Video_P95_ms","End_to_End_FPS"
+"YOLO11n COCO ONNX","1188","1171","98.57","41.5","42.62","21.26"
+"YOLO11n Fine-tuned ONNX","1188","1129","95.03","21.88","38.58","37.86"
+"EfficientDet-Lite0 FP32","1188","1133","95.37","64.7","83.12","13.64"
+"EfficientDet-Lite0 INT8","1188","1130","95.12","45.12","59.86","18.75"
+"MobileNet-SSD FP32","1188","1134","95.45","44.97","58.03","18.59"
+"MobileNet-SSD FP16","1188","1134","95.45","45.82","58.96","18.26"
+"NanoDet-Plus","1188","1143","96.21","38.6","54","25.91"

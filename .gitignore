@@ -35,3 +35,5 @@ results/**/samples/
 
 # Per-video evaluation details
 video_metrics.csv
+
+results/final_results_table.csv

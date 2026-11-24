@@ -1,0 +1,8 @@
+﻿"Model","Format","Image_Size","Protocol","Frames","mAP50","mAP50_95","Average_Latency_ms","P95_Latency_ms","Inference_FPS","Preprocess_ms","Inference_ms","Postprocess_ms","CPU_Percent","RAM_MB","Temperature_C","Model_Size_MB"
+"YOLO11n","ONNX","320","ONNX Benchmark","300","Not measured","Not measured","9.28","12.01","105.63","Not measured","Not measured separately","Not measured","38.69","102.99","Not measured","10.05"
+"YOLO11s","ONNX","320","ONNX Benchmark","300","Not measured","Not measured","21.04","29.73","47.11","Not measured","Not measured separately","Not measured","51.74","137.77","Not measured","36.05"
+"YOLO11n","ONNX","416","ONNX Benchmark","300","Not measured","Not measured","15.36","20.51","64.26","Not measured","Not measured separately","Not measured","50.61","121.29","Not measured","10.08"
+"YOLO11n","ONNX","640","ONNX Benchmark","300","Not measured","Not measured","38.07","48.52","26.11","Not measured","Not measured separately","Not measured","52.73","210.61","Not measured","10.17"
+"YOLO11n","ONNX","320","Unified Benchmark","300","Not measured","Not measured","35.24","39.03","28.08","Not measured","Not measured separately","Not measured","70.52","340.56","Not measured","10.05"
+"YOLO11n","NCNN","320","Unified Benchmark","300","Not measured","Not measured","42.71","47.52","23.2","Not measured","Not measured separately","Not measured","100.0","359.16","Not measured","9.98"
+"YOLO11n","NCNN","320","NCNN Benchmark","300","Not measured","Not measured","39.56","42.66","25.03","Not measured","Not measured separately","Not measured","100.0","336.75","Not measured","9.95"
