@@ -1,0 +1,6 @@
+model,video,total_frames,frames_with_person,frames_without_detection,detection_coverage_percent,average_confidence,average_inference_ms,p95_inference_ms,end_to_end_fps
+NanoDet-Plus-m-320,WhatsApp Video 2026-11-22 at 11.34.23 PM.mp4,270,270,0,100.0,0.6631,38.17,45.62,26.2
+NanoDet-Plus-m-320,WhatsApp Video 2026-11-22 at 11.34.36 PM.mp4,513,513,0,100.0,0.6933,37.61,44.4,26.59
+NanoDet-Plus-m-320,WhatsApp Video 2026-11-22 at 11.35.33 PM.mp4,106,106,0,100.0,0.7379,34.63,37.52,28.88
+NanoDet-Plus-m-320,WhatsApp Video 2026-11-22 at 11.35.37 PM.mp4,157,157,0,100.0,0.7751,38.23,53.68,26.15
+NanoDet-Plus-m-320,WhatsApp Video 2026-11-22 at 11.35.40 PM.mp4,142,97,45,68.31,0.7276,46.38,88.78,21.56

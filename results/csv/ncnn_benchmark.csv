@@ -1,0 +1,2 @@
+Model,Format,Image Size,Frames,Average Latency ms,P95 Latency ms,Inference FPS,Average CPU %,Average RAM MB,Model Size MB
+YOLO11n,NCNN,320,300,39.56,42.66,25.03,100.0,336.75,9.95

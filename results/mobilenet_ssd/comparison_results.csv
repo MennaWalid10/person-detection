@@ -1,0 +1,11 @@
+model,video,total_frames,frames_with_detection,frames_without_detection,detection_coverage_percent,total_person_detections,average_confidence,average_inference_ms,p95_inference_ms,end_to_end_fps
+FP32,WhatsApp Video 2026-11-22 at 11.34.23 PM.mp4,270,269,1,99.63,288,0.79,43.32,55.79,18.91
+FP32,WhatsApp Video 2026-11-22 at 11.34.36 PM.mp4,513,510,3,99.42,555,0.7917,45.18,57.46,19.35
+FP32,WhatsApp Video 2026-11-22 at 11.35.33 PM.mp4,106,106,0,100.0,106,0.8516,44.42,54.64,18.35
+FP32,WhatsApp Video 2026-11-22 at 11.35.37 PM.mp4,157,157,0,100.0,157,0.8508,45.22,57.83,18.12
+FP32,WhatsApp Video 2026-11-22 at 11.35.40 PM.mp4,142,92,50,64.79,92,0.7936,47.48,64.45,16.4
+FP16,WhatsApp Video 2026-11-22 at 11.34.23 PM.mp4,270,269,1,99.63,290,0.7865,46.76,60.57,17.68
+FP16,WhatsApp Video 2026-11-22 at 11.34.36 PM.mp4,513,510,3,99.42,556,0.7906,46.05,60.12,18.94
+FP16,WhatsApp Video 2026-11-22 at 11.35.33 PM.mp4,106,106,0,100.0,106,0.8515,43.95,54.45,18.46
+FP16,WhatsApp Video 2026-11-22 at 11.35.37 PM.mp4,157,157,0,100.0,157,0.8505,44.1,55.32,18.46
+FP16,WhatsApp Video 2026-11-22 at 11.35.40 PM.mp4,142,92,50,64.79,92,0.7932,46.54,64.35,16.77
