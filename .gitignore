@@ -32,3 +32,6 @@ results/**/samples/
 
 # Windows shortcuts
 *.lnk
+
+# Per-video evaluation details
+video_metrics.csv
